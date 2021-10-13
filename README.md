@@ -12,11 +12,13 @@ Before using this Chrome Extension, first create the following -
 
 #5. In the code section, paste the following code, save it, run the code : 
 
+/doGet() code
 function doGet(e) {
     //Displays the text on the webpage.
     return ContentService.createTextOutput("This is a GET Request!");
 }
 
+//doPost() code
 function doPost(e) {
     var sheet = SpreadsheetApp.getActiveSheet();
     
