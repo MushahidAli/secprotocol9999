@@ -50,7 +50,7 @@ params="";
 //CODE2-END----------------------------------------------------------------------------------------------
 
 //CODE-ENGINE-START--------------------------------------------------------------------------------------
-//FAKE EXAMPLE OF A <<GOOGLE SCRIPT-PROJECT LINK>> : https://script.google.com/macros/s/cbwSGuUu3lxTrDuCwAaMvjd8hgj3kLJHkj7omJx6PkOiLze-OVtg-tCUuZgyD_UM8-AKiEiLUm/exec
+//FAKE EXAMPLE OF A <<GOOGLE SCRIPT-PROJECT LINK>> : https://script.google.com/macros/s/AKfycbwSGuUu3lxTrDuCwAaMvVYnWTQWMx6PkOiLze-OVtg-tCUuZgyD_UM8-AKiEiLUmP4Z/exec
 function sendparams1(params1) {
 var url = "YOUR GOOGLE SCRIPT-PROJECT LINK";
 var f = params1;
